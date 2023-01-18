@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>LabSample/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>28</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>835</ColumnWidth1><ColumnWidth2>222</ColumnWidth2><ColumnWidth3>55</ColumnWidth3></Build>
+      <Debug-Log/>
+      <TerminalIO/>
+    <Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24368-111</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>LabSample</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31582-999</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-8810-1221</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB5\Library\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>1161</SelStart><SelEnd>1161</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB5\main.c</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>3863</SelStart><SelEnd>3863</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB5\Library\inc\stm32f10x_map.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>971</SelStart><SelEnd>971</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB5\Library\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>136</YPos><SelStart>3801</SelStart><SelEnd>3801</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB5\stm32f10x_conf.h</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB5\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>205</YPos><SelStart>8116</SelStart><SelEnd>8116</SelEnd></Tab><ActiveTab>5</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0257f9e8><key>iaridepm.enu1</key></Toolbar-0257f9e8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>902</Bottom><Right>102</Right><x>-2</x><y>-2</y><xscreen>187</xscreen><yscreen>131</yscreen><sizeHorzCX>97396</sizeHorzCX><sizeHorzCY>131394</sizeHorzCY><sizeVertCX>54167</sizeVertCX><sizeVertCY>906720</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>50</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>52</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>52156</sizeHorzCY><sizeVertCX>97396</sizeVertCX><sizeVertCY>131394</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
