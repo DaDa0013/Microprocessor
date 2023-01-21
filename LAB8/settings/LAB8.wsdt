@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>LabSample/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>164</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>771</ColumnWidth1><ColumnWidth2>205</ColumnWidth2><ColumnWidth3>51</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8430-29723</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>LabSample</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-29697-29939</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Users\yttn0\Desktop\&#xB9C8;&#xD504; &#xC2e4;&#xC2B5;\LAB8\main.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1227</SelStart><SelEnd>1227</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0259f9e8><key>iaridepm.enu1</key></Toolbar-0259f9e8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>862</Bottom><Right>238</Right><x>-2</x><y>-2</y><xscreen>280</xscreen><yscreen>233</yscreen><sizeHorzCX>215385</sizeHorzCX><sizeHorzCY>247346</sizeHorzCY><sizeVertCX>184615</sizeVertCX><sizeVertCY>917197</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>35</Bottom><Right>1302</Right><x>-2</x><y>-2</y><xscreen>1304</xscreen><yscreen>37</yscreen><sizeHorzCX>1003077</sizeHorzCX><sizeHorzCY>39278</sizeHorzCY><sizeVertCX>215385</sizeVertCX><sizeVertCY>247346</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
